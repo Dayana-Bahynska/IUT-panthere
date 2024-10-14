@@ -663,13 +663,13 @@ a {
 }
 
 .hero-bloc-text-sub {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .statement-bloc-text {
-    line-height: 12px;
+    line-height: 14px;
     font-style: italic;
-    font-size: 12px;
+    font-size: 14px;
     text-align: center;
     font-weight: lighter;
     max-width: 520px;
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
